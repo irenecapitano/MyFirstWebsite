@@ -1,0 +1,35 @@
+/* here i am styling my header */
+.logo {
+    text-align: center;
+}
+
+.shopalot {
+    color: green; 
+    /* i want to make this the color green to add a pop of color */
+}
+/* this is for the main page */
+.flex-flow {
+   display: flex;
+   flex-flow: nowrap;
+   justify-content: center;
+}
+
+/* these are in order to make the images the right size */
+.miscellaneous-card-img {
+    height: 400px;
+    width: 325px;
+}
+
+.grocery-card-img {
+    height: 400px;
+    width: 300px;
+}
+
+.clothing-card-img {
+    height: 390px;
+    width: 300px;
+}
+
+.myCard{
+    width: 20rem;
+}
